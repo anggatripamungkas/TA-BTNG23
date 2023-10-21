@@ -1,0 +1,19 @@
+* {
+  background-color: hsl(0, 0%, 12%);
+  font-family: "Dancing Script", cursive;
+}
+img {
+  background-color: rgb(87, 85, 90);
+}
+.back {
+  background-color: rgb(55, 50, 50);
+}
+.teks {
+  text-decoration: none;
+}
+.click {
+  color: white !important;
+}
+.click:hover {
+  color: greenyellow !important;
+}

@@ -16,4 +16,5 @@ img {
 }
 .click:hover {
   color: greenyellow !important;
+  text-decoration: underline;
 }
